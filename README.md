@@ -3,7 +3,7 @@
 ## 1. Pentest como Processo:
 A aplicação de um pentest é definida por etapas consecutivas e iterativas e possui diversas metodologias e/ou segue frameworks como o definido pela MITRE ATT&CK.:
 	1. Preparação
-		A etapa de preparação consiste na definição e elaboração dos documentos necessários para realizar o teste, onde se tem: acordo de confidencialidade, definição do escopo de teste, especificações da infraestrutura do alvo, objetivos do teste, estimativa de duração, regras na execução e informações adicionais caso necessárias. 
+		A etapa de preparação consiste na definição e elaboração dos documentos necessários para realizar o teste, onde se tem: acordo de confidencialidade, definição do escopo de teste, especificações da infraestrutura do alvo, objetivos do teste, estimativa de duração, regras na execução e informações adicionais caso necessárias.
 	2. Coleta de Informações
 		A coleta de informações é comum ser dividida em 2 tipos:
 			- Reconhecimento **passivo**, no qual busca-se informações sobre o alvo sem interação direta, por exemplo OSINT e Google Dorking. 
